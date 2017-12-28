@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520289107983",
+    "firebase_url": "https://mobile-3e71e.firebaseio.com",
+    "project_id": "mobile-3e71e",
+    "storage_bucket": "mobile-3e71e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520289107983:android:cee06447b0e84723",
+        "android_client_info": {
+          "package_name": "com.example.pc.mechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520289107983-qfmoe5q9u6fgi6jn6nbu05piakolulbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.mechat",
+            "certificate_hash": "39e5e241e3fd56b132b1a3d75428bce733bc519d"
+          }
+        },
+        {
+          "client_id": "520289107983-v443uh3p9ds080u1o8afl9gupcen62mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPkoSyXaKiOH1QSfoFm7TD-Dj-oNO-HE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520289107983-v443uh3p9ds080u1o8afl9gupcen62mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
